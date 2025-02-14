@@ -14,15 +14,15 @@ Pada 17 Agustus 1945, Indonesia memproklamasikan kemerdekaan. Keesokan harinya, 
 2.	Soekarno sebagai Presiden dan Mohammad Hatta sebagai Wakil Presiden.
 3.	Pembentukan Komite Nasional Indonesia Pusat (KNIP) sebagai badan legislatif sementara.
 UUD 1945 yang disahkan terdiri dari tiga bagian utama:
-•	Pembukaan (4 alinea)
-•	Batang tubuh (16 bab, 37 pasal, aturan peralihan, dan aturan tambahan)
-•	Penjelasan (berisi uraian tentang isi UUD)
+1.	Pembukaan (4 alinea)
+2.	Batang tubuh (16 bab, 37 pasal, aturan peralihan, dan aturan tambahan)
+3.	Penjelasan (berisi uraian tentang isi UUD)
 2. Perubahan dan Amandemen UUD 1945
 A. Periode Sebelum Amandemen (1945–1999)
-•	UUD 1945 pertama kali berlaku pada 18 Agustus 1945.
-•	Pada 27 Desember 1949, Indonesia mengubah sistem pemerintahan menjadi Republik Indonesia Serikat (RIS) dan menggunakan Konstitusi RIS 1949.
-•	Pada 17 Agustus 1950, Indonesia kembali menjadi negara kesatuan dan menggunakan UUD Sementara 1950.
-•	Pada 5 Juli 1959, Presiden Soekarno mengeluarkan Dekrit Presiden yang memberlakukan kembali UUD 1945.
+a.	UUD 1945 pertama kali berlaku pada 18 Agustus 1945.
+b.	Pada 27 Desember 1949, Indonesia mengubah sistem pemerintahan menjadi Republik Indonesia Serikat (RIS) dan menggunakan Konstitusi RIS 1949.
+c.	Pada 17 Agustus 1950, Indonesia kembali menjadi negara kesatuan dan menggunakan UUD Sementara 1950.
+d.	Pada 5 Juli 1959, Presiden Soekarno mengeluarkan Dekrit Presiden yang memberlakukan kembali UUD 1945.
 B. Amandemen UUD 1945 (1999–2002)
 Setelah reformasi 1998, MPR melakukan empat kali amandemen terhadap UUD 1945 untuk menyesuaikan dengan prinsip demokrasi dan hak asasi manusia. Amandemen dilakukan dalam Sidang Umum MPR pada tahun:
 1.	1999: Menghapus kewenangan MPR sebagai lembaga tertinggi negara, membatasi kekuasaan presiden, dan memperkuat DPR.
@@ -30,89 +30,89 @@ Setelah reformasi 1998, MPR melakukan empat kali amandemen terhadap UUD 1945 unt
 3.	2001: Mengatur otonomi daerah, membentuk DPD, dan membatasi masa jabatan presiden.
 4.	2002: Menyempurnakan struktur ketatanegaraan dan membentuk Mahkamah Konstitusi (MK).
 Setelah amandemen, UUD 1945 mengalami perubahan signifikan:
-•	Pasal bertambah dari 37 menjadi 73 pasal.
-•	Lembaga negara baru dibentuk, seperti DPD dan MK.
-•	Presiden dipilih langsung oleh rakyat.
-•	Mekanisme pengawasan dan check and balance lebih kuat.
+a.	Pasal bertambah dari 37 menjadi 73 pasal.
+b.	Lembaga negara baru dibentuk, seperti DPD dan MK.
+c.	Presiden dipilih langsung oleh rakyat.
+d.	Mekanisme pengawasan dan check and balance lebih kuat.
  
 TAHAP 2: STRUKTUR DAN ISI UNDANG-UNDANG DASAR NEGARA REPUBLIK INDONESIA TAHUN 1945
 1. Pembukaan UUD 1945
 A. Struktur Pembukaan UUD 1945
 Pembukaan UUD 1945 terdiri dari empat alinea yang masing-masing memiliki makna mendalam:
-1.	Alinea Pertama
+a.	Alinea Pertama
 "Bahwa sesungguhnya kemerdekaan itu ialah hak segala bangsa, dan oleh sebab itu, maka penjajahan di atas dunia harus dihapuskan, karena tidak sesuai dengan perikemanusiaan dan perikeadilan."
 Makna:
-o	Mengakui hak setiap bangsa untuk merdeka.
-o	Menolak penjajahan dalam bentuk apa pun.
-o	Menegaskan prinsip perikemanusiaan dan perikeadilan.
-2.	Alinea Kedua
+1.	Mengakui hak setiap bangsa untuk merdeka.
+2.	Menolak penjajahan dalam bentuk apa pun.
+3.	Menegaskan prinsip perikemanusiaan dan perikeadilan.
+b.	Alinea Kedua
 "Dan perjuangan pergerakan kemerdekaan Indonesia telah sampailah kepada saat yang berbahagia dengan selamat sentosa mengantarkan rakyat Indonesia ke depan pintu gerbang kemerdekaan Negara Indonesia yang merdeka, bersatu, berdaulat, adil, dan makmur."
 Makna:
-o	Menegaskan bahwa kemerdekaan adalah hasil perjuangan bangsa.
-o	Menyatakan cita-cita negara yang merdeka, bersatu, berdaulat, adil, dan makmur.
-3.	Alinea Ketiga
+1.	Menegaskan bahwa kemerdekaan adalah hasil perjuangan bangsa.
+2.	Menyatakan cita-cita negara yang merdeka, bersatu, berdaulat, adil, dan makmur.
+c.	Alinea Ketiga
 "Atas berkat rahmat Allah Yang Maha Kuasa dan dengan didorongkan oleh keinginan luhur, supaya berkehidupan kebangsaan yang bebas, maka rakyat Indonesia menyatakan dengan ini kemerdekaannya."
 Makna:
-o	Mengakui bahwa kemerdekaan adalah rahmat Tuhan Yang Maha Esa.
-o	Menunjukkan keinginan luhur bangsa Indonesia untuk bebas.
-4.	Alinea Keempat
+1.	Mengakui bahwa kemerdekaan adalah rahmat Tuhan Yang Maha Esa.
+2.	Menunjukkan keinginan luhur bangsa Indonesia untuk bebas.
+d.	Alinea Keempat
 "Kemudian daripada itu untuk membentuk suatu Pemerintah Negara Indonesia yang melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia dan untuk memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial, maka disusunlah Kemerdekaan Kebangsaan Indonesia itu dalam suatu Undang-Undang Dasar Negara Indonesia, yang terbentuk dalam suatu susunan Negara Republik Indonesia yang berkedaulatan rakyat dengan berdasarkan kepada Ketuhanan Yang Maha Esa, Kemanusiaan yang adil dan beradab, Persatuan Indonesia, dan Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan, serta dengan mewujudkan suatu keadilan sosial bagi seluruh rakyat Indonesia."
 Makna:
-o	Menegaskan tujuan negara (melindungi rakyat, memajukan kesejahteraan, mencerdaskan kehidupan bangsa, dan menjaga perdamaian dunia).
-o	Menyatakan bentuk negara sebagai Negara Republik Indonesia yang berkedaulatan rakyat.
-o	Menegaskan Pancasila sebagai dasar negara.
+1.	Menegaskan tujuan negara (melindungi rakyat, memajukan kesejahteraan, mencerdaskan kehidupan bangsa, dan menjaga perdamaian dunia).
+2.	Menyatakan bentuk negara sebagai Negara Republik Indonesia yang berkedaulatan rakyat.
+3.	Menegaskan Pancasila sebagai dasar negara.
 2. Batang Tubuh UUD 1945
 Setelah amandemen, UUD 1945 terdiri dari 21 Bab dan 73 Pasal. Berikut adalah struktur utama batang tubuh UUD 1945:
 A. Bab I – Bentuk dan Kedaulatan Negara (Pasal 1)
-•	Pasal 1 Ayat (1): Indonesia adalah negara kesatuan berbentuk republik.
-•	Pasal 1 Ayat (2): Kedaulatan berada di tangan rakyat dan dilaksanakan menurut UUD.
-•	Pasal 1 Ayat (3): Negara Indonesia adalah negara hukum.
+1.	Pasal 1 Ayat (1): Indonesia adalah negara kesatuan berbentuk republik.
+2.	Pasal 1 Ayat (2): Kedaulatan berada di tangan rakyat dan dilaksanakan menurut UUD.
+3.	Pasal 1 Ayat (3): Negara Indonesia adalah negara hukum.
 B. Bab II – Majelis Permusyawaratan Rakyat (Pasal 2 – Pasal 3)
-•	MPR terdiri dari DPR dan DPD.
-•	Berwenang mengubah dan menetapkan UUD.
-•	Tidak lagi memiliki kewenangan tertinggi setelah amandemen.
+1.	MPR terdiri dari DPR dan DPD.
+2.	Berwenang mengubah dan menetapkan UUD.
+3.	Tidak lagi memiliki kewenangan tertinggi setelah amandemen.
 C. Bab III – Kekuasaan Pemerintahan Negara (Pasal 4 – Pasal 16)
-•	Presiden sebagai kepala negara dan kepala pemerintahan.
-•	Presiden dan wakil presiden dipilih langsung oleh rakyat.
-•	Presiden bertanggung jawab kepada rakyat dan tidak bisa diberhentikan oleh MPR secara sepihak.
+1.	Presiden sebagai kepala negara dan kepala pemerintahan.
+2.	Presiden dan wakil presiden dipilih langsung oleh rakyat.
+3.	Presiden bertanggung jawab kepada rakyat dan tidak bisa diberhentikan oleh MPR secara sepihak.
 D. Bab IV – Dewan Perwakilan Rakyat (Pasal 19 – Pasal 22B)
-•	DPR memiliki fungsi legislasi, anggaran, dan pengawasan.
-•	Anggota DPR dipilih melalui pemilu.
+1.	DPR memiliki fungsi legislasi, anggaran, dan pengawasan.
+2.	Anggota DPR dipilih melalui pemilu.
 E. Bab V – Dewan Perwakilan Daerah (Pasal 22C – Pasal 22D)
-•	DPD mewakili kepentingan daerah di tingkat nasional.
-•	Memiliki fungsi pengawasan atas kebijakan yang berkaitan dengan daerah.
+1.	DPD mewakili kepentingan daerah di tingkat nasional.
+2.	Memiliki fungsi pengawasan atas kebijakan yang berkaitan dengan daerah.
 F. Bab VI – Pemerintahan Daerah (Pasal 18 – Pasal 18B)
-•	Indonesia menganut sistem desentralisasi dan otonomi daerah.
-•	Pemerintah daerah memiliki wewenang untuk mengatur sendiri urusan rumah tangganya.
+1.	Indonesia menganut sistem desentralisasi dan otonomi daerah.
+2.	Pemerintah daerah memiliki wewenang untuk mengatur sendiri urusan rumah tangganya.
 G. Bab VII – Pemilihan Umum (Pasal 22E)
-•	Pemilu dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil.
-•	Dilaksanakan untuk memilih anggota DPR, DPD, DPRD, serta Presiden dan Wakil Presiden.
+1.	Pemilu dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil.
+2.	Dilaksanakan untuk memilih anggota DPR, DPD, DPRD, serta Presiden dan Wakil Presiden.
 H. Bab VIII – Hal Keuangan (Pasal 23 – Pasal 23D)
-•	APBN ditetapkan setiap tahun oleh DPR.
-•	Pengelolaan keuangan negara diawasi oleh Badan Pemeriksa Keuangan (BPK).
+1.	APBN ditetapkan setiap tahun oleh DPR.
+2.	Pengelolaan keuangan negara diawasi oleh Badan Pemeriksa Keuangan (BPK).
 I. Bab IX – Kekuasaan Kehakiman (Pasal 24 – Pasal 25)
-•	Kekuasaan kehakiman dilakukan oleh Mahkamah Agung (MA) dan Mahkamah Konstitusi (MK).
-•	Hakim bersifat independen dan tidak boleh dipengaruhi oleh kekuasaan lain.
+1.	Kekuasaan kehakiman dilakukan oleh Mahkamah Agung (MA) dan Mahkamah Konstitusi (MK).
+2.	Hakim bersifat independen dan tidak boleh dipengaruhi oleh kekuasaan lain.
 J. Bab X – Warga Negara dan Penduduk (Pasal 26 – Pasal 28D)
-•	Mengatur tentang status kewarganegaraan.
-•	Setiap warga negara memiliki hak dan kewajiban yang sama.
+1.	Mengatur tentang status kewarganegaraan.
+2.	Setiap warga negara memiliki hak dan kewajiban yang sama.
 K. Bab XI – Agama (Pasal 29)
-•	Negara berdasarkan Ketuhanan Yang Maha Esa.
-•	Negara menjamin kemerdekaan beragama bagi setiap warga negara.
+1.	Negara berdasarkan Ketuhanan Yang Maha Esa.
+2.	Negara menjamin kemerdekaan beragama bagi setiap warga negara.
 L. Bab XII – Pertahanan dan Keamanan Negara (Pasal 30)
-•	Setiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara.
+1.	Setiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara.
 M. Bab XIII – Pendidikan dan Kebudayaan (Pasal 31 – Pasal 32)
-•	Setiap warga negara berhak mendapat pendidikan.
-•	Negara memajukan kebudayaan nasional.
+1.	Setiap warga negara berhak mendapat pendidikan.
+2.	Negara memajukan kebudayaan nasional.
 N. Bab XIV – Perekonomian Nasional dan Kesejahteraan Sosial (Pasal 33 – Pasal 34)
-•	Perekonomian nasional disusun berdasarkan asas kekeluargaan.
-•	Negara bertanggung jawab atas fakir miskin dan anak-anak terlantar.
+1.	Perekonomian nasional disusun berdasarkan asas kekeluargaan.
+2.	Negara bertanggung jawab atas fakir miskin dan anak-anak terlantar.
 O. Bab XV – Bendera, Bahasa, dan Lambang Negara (Pasal 35 – Pasal 36B)
-•	Bendera negara adalah Sang Merah Putih.
-•	Bahasa negara adalah Bahasa Indonesia.
-•	Lambang negara adalah Garuda Pancasila.
+1.	Bendera negara adalah Sang Merah Putih.
+2.	Bahasa negara adalah Bahasa Indonesia.
+3.	Lambang negara adalah Garuda Pancasila.
 P. Bab XVI – Perubahan UUD (Pasal 37)
-•	Perubahan UUD hanya dapat dilakukan oleh MPR.
+1.	Perubahan UUD hanya dapat dilakukan oleh MPR.
  
 TAHAP 3: POKOK-POKOK SISTEM PEMERINTAHAN INDONESIA
 Sistem pemerintahan Indonesia didasarkan pada UUD 1945 dan telah mengalami perubahan melalui empat kali amandemen (1999–2002). Amandemen ini mengubah struktur pemerintahan dari sistem yang sebelumnya cenderung sentralistis dan otoriter menjadi lebih demokratis dan desentralistis.
@@ -120,29 +120,29 @@ Indonesia menganut sistem pemerintahan presidensial, di mana presiden memiliki p
 1. Prinsip-Prinsip Dasar Sistem Pemerintahan Indonesia
 Berdasarkan Pasal 1 Ayat (1), (2), dan (3) UUD 1945, Indonesia memiliki sistem pemerintahan dengan karakteristik utama sebagai berikut:
 A. Bentuk Negara: Negara Kesatuan
-•	Pasal 1 Ayat (1) UUD 1945:
+a.	Pasal 1 Ayat (1) UUD 1945:
 "Negara Indonesia adalah negara kesatuan yang berbentuk Republik."
-•	Indonesia bukan negara bagian atau federasi.
-•	Pemerintahan pusat memiliki kekuasaan utama, tetapi memberikan kewenangan kepada daerah melalui desentralisasi (otonomi daerah).
+b.	Indonesia bukan negara bagian atau federasi.
+c.	Pemerintahan pusat memiliki kekuasaan utama, tetapi memberikan kewenangan kepada daerah melalui desentralisasi (otonomi daerah).
 
 
 B. Bentuk Pemerintahan: Republik
-•	Indonesia dipimpin oleh presiden yang dipilih langsung oleh rakyat.
-•	Kepala negara dan kepala pemerintahan dijabat oleh orang yang sama (presiden).
-•	Masa jabatan presiden 5 tahun dan dapat dipilih kembali satu kali (Pasal 7 UUD 1945 hasil amandemen).
+a.	Indonesia dipimpin oleh presiden yang dipilih langsung oleh rakyat.
+b.	Kepala negara dan kepala pemerintahan dijabat oleh orang yang sama (presiden).
+c.	Masa jabatan presiden 5 tahun dan dapat dipilih kembali satu kali (Pasal 7 UUD 1945 hasil amandemen).
 C. Kedaulatan Rakyat
-•	Pasal 1 Ayat (2) UUD 1945:
+a.	Pasal 1 Ayat (2) UUD 1945:
 "Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar."
-•	Pemilu sebagai sarana utama pelaksanaan kedaulatan rakyat untuk memilih:
+b.	Pemilu sebagai sarana utama pelaksanaan kedaulatan rakyat untuk memilih:
 1.	Presiden dan Wakil Presiden.
 2.	DPR dan DPD (anggota MPR).
 3.	DPRD provinsi dan kabupaten/kota.
 4.	Kepala daerah (gubernur, bupati, dan wali kota).
 D. Negara Hukum (Rechtsstaat)
-•	Pasal 1 Ayat (3) UUD 1945:
+a.	Pasal 1 Ayat (3) UUD 1945:
 "Negara Indonesia adalah negara hukum."
-•	Semua tindakan pemerintah harus berdasarkan hukum.
-•	Tidak ada kekuasaan absolut (semua tunduk pada aturan).
+b.	Semua tindakan pemerintah harus berdasarkan hukum.
+c.	Tidak ada kekuasaan absolut (semua tunduk pada aturan).
 E. Sistem Pemerintahan Presidensial
 Sistem ini memiliki karakteristik utama:
 1.	Presiden sebagai kepala negara dan kepala pemerintahan.
@@ -162,53 +162,53 @@ A. Lembaga Eksekutif: Presiden dan Wakil Presiden
 1. Presiden
 Sebagai kepala pemerintahan dan kepala negara, presiden memiliki beberapa kewenangan utama:
 ✔ Kekuasaan Eksekutif:
-•	Menjalankan pemerintahan berdasarkan UUD.
-•	Mengangkat dan memberhentikan menteri.
-•	Membentuk peraturan pemerintah.
+a.	Menjalankan pemerintahan berdasarkan UUD.
+b.	Mengangkat dan memberhentikan menteri.
+c.	Membentuk peraturan pemerintah.
 ✔ Kekuasaan Legislatif (Bersama DPR):
-•	Mengajukan rancangan undang-undang.
-•	Menyetujui atau menolak RUU yang disahkan DPR.
+a.	Mengajukan rancangan undang-undang.
+b.	Menyetujui atau menolak RUU yang disahkan DPR.
 ✔ Kekuasaan Yudikatif:
-•	Memberikan grasi, amnesti, abolisi, dan rehabilitasi.
+a.	Memberikan grasi, amnesti, abolisi, dan rehabilitasi.
 ✔ Kekuasaan dalam Hubungan Luar Negeri:
-•	Membuat perjanjian internasional.
-•	Mengangkat duta besar dan menerima duta besar negara lain.
+a.	Membuat perjanjian internasional.
+b.	Mengangkat duta besar dan menerima duta besar negara lain.
 2. Wakil Presiden
-•	Membantu presiden dalam menjalankan tugas pemerintahan.
-•	Dapat menggantikan presiden jika berhalangan tetap.
+a.	Membantu presiden dalam menjalankan tugas pemerintahan.
+b.	Dapat menggantikan presiden jika berhalangan tetap.
 
 B. Lembaga Legislatif: MPR, DPR, dan DPD
 1. Majelis Permusyawaratan Rakyat (MPR)
-•	Terdiri dari DPR dan DPD.
-•	Berwenang mengubah dan menetapkan UUD.
+a.	Terdiri dari DPR dan DPD.
+b.	Berwenang mengubah dan menetapkan UUD.
 2. Dewan Perwakilan Rakyat (DPR)
-•	Memiliki fungsi legislasi (membuat UU), fungsi anggaran, dan fungsi pengawasan.
-•	Berwenang mengajukan hak interpelasi, angket, dan menyatakan pendapat terhadap kebijakan pemerintah.
+a.	Memiliki fungsi legislasi (membuat UU), fungsi anggaran, dan fungsi pengawasan.
+b.	Berwenang mengajukan hak interpelasi, angket, dan menyatakan pendapat terhadap kebijakan pemerintah.
 3. Dewan Perwakilan Daerah (DPD)
-•	Mengusulkan dan memberikan pertimbangan atas RUU yang berkaitan dengan daerah.
-•	Tidak memiliki kewenangan membuat undang-undang sendiri.
+a.	Mengusulkan dan memberikan pertimbangan atas RUU yang berkaitan dengan daerah.
+b.	Tidak memiliki kewenangan membuat undang-undang sendiri.
 C. Lembaga Yudikatif: MA, MK, dan KY
 1. Mahkamah Agung (MA)
-•	Mengadili pada tingkat kasasi.
-•	Mengawasi peradilan di seluruh Indonesia.
+a.	Mengadili pada tingkat kasasi.
+b.	Mengawasi peradilan di seluruh Indonesia.
 2. Mahkamah Konstitusi (MK)
-•	Berwenang menguji undang-undang terhadap UUD 1945.
-•	Memutus sengketa kewenangan lembaga negara.
+a.	Berwenang menguji undang-undang terhadap UUD 1945.
+b.	Memutus sengketa kewenangan lembaga negara.
 3. Komisi Yudisial (KY)
-•	Mengusulkan pengangkatan hakim agung.
-•	Mengawasi perilaku hakim.
+a.	Mengusulkan pengangkatan hakim agung.
+b.	Mengawasi perilaku hakim.
 ________________________________________
 D. Badan Pemeriksa Keuangan (BPK)
-•	Mengawasi pengelolaan keuangan negara.
-•	Melaporkan hasil pemeriksaan kepada DPR dan DPD.
+a.	Mengawasi pengelolaan keuangan negara.
+b.	Melaporkan hasil pemeriksaan kepada DPR dan DPD.
 ________________________________________
 3. Pemerintahan Daerah dalam UUD 1945
 A. Otonomi Daerah
-•	Berdasarkan Pasal 18, Pasal 18A, dan Pasal 18B UUD 1945.
-•	Setiap daerah memiliki hak mengatur urusan sendiri kecuali dalam bidang pertahanan, keamanan, politik luar negeri, dan peradilan.
+a.	Berdasarkan Pasal 18, Pasal 18A, dan Pasal 18B UUD 1945.
+b.	Setiap daerah memiliki hak mengatur urusan sendiri kecuali dalam bidang pertahanan, keamanan, politik luar negeri, dan peradilan.
 B. Hubungan Pusat dan Daerah
-•	Pemerintah pusat tetap memiliki wewenang dalam urusan strategis nasional.
-•	Pemerintah daerah mengelola pendidikan, kesehatan, infrastruktur, dan ekonomi daerah.
+a.	Pemerintah pusat tetap memiliki wewenang dalam urusan strategis nasional.
+b.	Pemerintah daerah mengelola pendidikan, kesehatan, infrastruktur, dan ekonomi daerah.
 ________________________________________
 Kesimpulan
 1.	Indonesia adalah negara kesatuan dengan sistem pemerintahan presidensial.
@@ -235,47 +235,47 @@ ________________________________________
 2. Hak Asasi Manusia dalam UUD 1945 (Pasal 28A – 28J)
 HAM diatur dalam Bab XA UUD 1945, yang mencakup hak-hak dasar manusia di berbagai bidang.
 A. Hak untuk Hidup dan Bertahan Hidup (Pasal 28A - 28B UUD 1945)
-•	Pasal 28A:
+1.	Pasal 28A:
 "Setiap orang berhak untuk hidup serta berhak mempertahankan hidup dan kehidupannya."
-•	Pasal 28B Ayat (1):
+2.	Pasal 28B Ayat (1):
 "Setiap orang berhak membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah."
-•	Pasal 28B Ayat (2):
+3.	Pasal 28B Ayat (2):
 "Setiap anak berhak atas kelangsungan hidup, tumbuh, berkembang, dan mendapat perlindungan dari kekerasan serta diskriminasi."
 B. Hak Kebebasan Pribadi (Pasal 28C - 28E UUD 1945)
-•	Pasal 28C Ayat (1):
+1.	Pasal 28C Ayat (1):
 "Setiap orang berhak mengembangkan diri melalui pemenuhan kebutuhan dasar, mendapatkan pendidikan, dan memperoleh manfaat dari ilmu pengetahuan dan teknologi."
 
-•	Pasal 28D Ayat (1):
+2.	Pasal 28D Ayat (1):
 "Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum."
-•	Pasal 28E Ayat (1):
+3.	Pasal 28E Ayat (1):
 "Setiap orang berhak memeluk agama dan beribadah menurut agamanya, memilih pendidikan, pekerjaan, serta bertempat tinggal di wilayah negara."
-•	Pasal 28E Ayat (2):
+4.	Pasal 28E Ayat (2):
 "Setiap orang berhak atas kebebasan meyakini kepercayaan, menyatakan pikiran dan sikap sesuai hati nuraninya."
 C. Hak Ekonomi, Sosial, dan Budaya (Pasal 28F - 28H UUD 1945)
-•	Pasal 28F:
+1.	Pasal 28F:
 "Setiap orang berhak berkomunikasi dan memperoleh informasi."
-•	Pasal 28G Ayat (1):
+2.	Pasal 28G Ayat (1):
 "Setiap orang berhak atas perlindungan diri pribadi, keluarga, kehormatan, martabat, dan harta benda yang di bawah kekuasaannya."
-•	Pasal 28H Ayat (1):
+3.	Pasal 28H Ayat (1):
 "Setiap orang berhak hidup sejahtera lahir dan batin, bertempat tinggal, dan mendapatkan lingkungan hidup yang baik dan sehat."
 
 
 D. Hak Keadilan dan Perlindungan Hukum (Pasal 28I - 28J UUD 1945)
-•	Pasal 28I Ayat (1):
+1.	Pasal 28I Ayat (1):
 "Hak untuk hidup, hak untuk tidak disiksa, hak kemerdekaan pikiran dan hati nurani, hak beragama, hak untuk tidak diperbudak, hak untuk diakui sebagai pribadi di hadapan hukum, dan hak untuk tidak dituntut atas dasar hukum yang berlaku surut adalah hak asasi manusia yang tidak dapat dikurangi dalam keadaan apa pun."
-•	Pasal 28J Ayat (1):
+2.	Pasal 28J Ayat (1):
 "Setiap orang wajib menghormati hak asasi manusia orang lain dalam tertib kehidupan bermasyarakat, berbangsa, dan bernegara."
 ________________________________________
 3. Hak dan Kewajiban Warga Negara dalam UUD 1945
 Selain HAM, UUD 1945 juga mengatur hak-hak yang khusus bagi warga negara Indonesia, seperti:
-✔ Hak atas kewarganegaraan (Pasal 26).
-✔ Hak atas pendidikan (Pasal 31 Ayat 1).
-✔ Hak atas pekerjaan dan penghidupan yang layak (Pasal 27 Ayat 2).
-✔ Hak untuk ikut serta dalam pertahanan negara (Pasal 30 Ayat 1).
+1.	Hak atas kewarganegaraan (Pasal 26).
+2.	Hak atas pendidikan (Pasal 31 Ayat 1).
+3.	Hak atas pekerjaan dan penghidupan yang layak (Pasal 27 Ayat 2).
+4.	Hak untuk ikut serta dalam pertahanan negara (Pasal 30 Ayat 1).
 Sementara itu, warga negara juga memiliki kewajiban seperti:
-✔ Menaati hukum dan pemerintah (Pasal 27 Ayat 1).
-✔ Menghormati HAM orang lain (Pasal 28J Ayat 1).
-✔ Bela negara (Pasal 30 Ayat 1).
+1.	Menaati hukum dan pemerintah (Pasal 27 Ayat 1).
+2.	Menghormati HAM orang lain (Pasal 28J Ayat 1).
+3.	Bela negara (Pasal 30 Ayat 1).
 ________________________________________
 4. Perbedaan Hak Asasi Manusia dan Hak Warga Negara
 Aspek	Hak Asasi Manusia (HAM)	Hak Warga Negara
@@ -285,10 +285,10 @@ Berlaku untuk	Semua orang (termasuk warga asing di Indonesia)	Hanya warga negara
 Sumber hukum	UUD 1945, Deklarasi HAM PBB, konvensi internasional	UUD 1945, UU Kewarganegaraan
 5. Kewajiban Negara dalam Menegakkan HAM
 Negara memiliki kewajiban konstitusional dalam melindungi dan menjamin HAM, di antaranya:
-✔ Membentuk regulasi dan kebijakan yang menjamin HAM.
-✔ Menindak pelanggaran HAM melalui peradilan HAM.
-✔ Melindungi hak minoritas dan kelompok rentan.
-✔ Memastikan kesejahteraan sosial untuk mewujudkan HAM ekonomi dan sosial.
+1.	Membentuk regulasi dan kebijakan yang menjamin HAM.
+2.	Menindak pelanggaran HAM melalui peradilan HAM.
+3.	Melindungi hak minoritas dan kelompok rentan.
+4.	Memastikan kesejahteraan sosial untuk mewujudkan HAM ekonomi dan sosial.
 Kesimpulan
 1.	HAM adalah hak dasar manusia yang bersifat universal.
 2.	Hak warga negara hanya berlaku bagi warga negara Indonesia.
@@ -315,30 +315,30 @@ ________________________________________
 Pelanggaran HAM dapat dibagi menjadi dua kategori utama:
 A. Pelanggaran HAM Ringan
 Pelanggaran yang tidak mengancam nyawa atau menyebabkan penderitaan berat, seperti:
-✔ Pelecehan verbal atau diskriminasi (misalnya, ujaran kebencian).
-✔ Pembatasan kebebasan berekspresi (misalnya, sensor media tanpa dasar hukum).
-✔ Pelanggaran hak-hak sosial dan ekonomi (misalnya, tidak membayar upah pekerja).
+a.	Pelecehan verbal atau diskriminasi (misalnya, ujaran kebencian).
+b.	Pembatasan kebebasan berekspresi (misalnya, sensor media tanpa dasar hukum).
+c.	Pelanggaran hak-hak sosial dan ekonomi (misalnya, tidak membayar upah pekerja).
 B. Pelanggaran HAM Berat
 Pelanggaran serius yang menyebabkan penderitaan besar, meliputi:
 1.	Kejahatan Genosida
-o	Upaya pemusnahan suatu kelompok etnis, agama, ras, atau budaya.
-o	Contoh: Holocaust oleh Nazi Jerman.
+a.	Upaya pemusnahan suatu kelompok etnis, agama, ras, atau budaya.
+b.	Contoh: Holocaust oleh Nazi Jerman.
 2.	Kejahatan terhadap Kemanusiaan
-o	Pembunuhan massal, perbudakan, pengusiran, penyiksaan, atau perbudakan seksual.
-o	Contoh: Kasus pembantaian 1965 di Indonesia.
+a.	Pembunuhan massal, perbudakan, pengusiran, penyiksaan, atau perbudakan seksual.
+b.	Contoh: Kasus pembantaian 1965 di Indonesia.
 3.	Pelanggaran Hak Sipil dan Politik
-o	Penculikan aktivis politik, penyiksaan tahanan politik, dll.
+a.	Penculikan aktivis politik, penyiksaan tahanan politik, dll.
 ________________________________________
 3. Faktor Penyebab Pelanggaran HAM
 Ada beberapa faktor utama yang menyebabkan pelanggaran HAM:
-✔ Faktor Internal (dari individu/masyarakat)
-•	Ketidaktahuan tentang HAM
-•	Sikap intoleransi dan diskriminasi
-•	Penyalahgunaan kekuasaan oleh individu/kelompok
-✔ Faktor Eksternal (dari negara/sistem hukum)
-•	Hukum yang lemah atau tidak ditegakkan
-•	Penyalahgunaan kekuasaan oleh pemerintah
-•	Ketidakadilan ekonomi dan sosial
+1.	Faktor Internal (dari individu/masyarakat)
+a.	Ketidaktahuan tentang HAM
+b.	Sikap intoleransi dan diskriminasi
+c.	Penyalahgunaan kekuasaan oleh individu/kelompok
+2.	Faktor Eksternal (dari negara/sistem hukum)
+a.	Hukum yang lemah atau tidak ditegakkan
+b.	Penyalahgunaan kekuasaan oleh pemerintah
+c.	Ketidakadilan ekonomi dan sosial
 ________________________________________
 4. Kasus-Kasus Pelanggaran HAM di Indonesia
 Indonesia memiliki sejarah panjang pelanggaran HAM. Beberapa kasus terkenal antara lain:
@@ -355,31 +355,31 @@ ________________________________________
 5. Lembaga-Lembaga Penegakan HAM di Indonesia
 Untuk menangani pelanggaran HAM, Indonesia memiliki beberapa lembaga yang berwenang:
 A. Komisi Nasional Hak Asasi Manusia (Komnas HAM)
-✔ Berdasarkan UU No. 39 Tahun 1999.
-✔ Tugas utama: menyelidiki dan merekomendasikan penyelesaian pelanggaran HAM.
+Berdasarkan UU No. 39 Tahun 1999.
+Tugas utama: menyelidiki dan merekomendasikan penyelesaian pelanggaran HAM.
 B. Pengadilan HAM
-✔ Berdasarkan UU No. 26 Tahun 2000.
-✔ Mengadili pelanggaran HAM berat (genosida dan kejahatan terhadap kemanusiaan).
+Berdasarkan UU No. 26 Tahun 2000.
+Mengadili pelanggaran HAM berat (genosida dan kejahatan terhadap kemanusiaan).
 C. Komisi Kebenaran dan Rekonsiliasi (KKR)
-✔ Dibentuk untuk mengungkap kasus HAM masa lalu dan memberi keadilan bagi korban.
-✔ Masih terbatas dalam pelaksanaannya.
+Dibentuk untuk mengungkap kasus HAM masa lalu dan memberi keadilan bagi korban.
+Masih terbatas dalam pelaksanaannya.
 D. Lembaga Perlindungan Saksi dan Korban (LPSK)
-✔ Memberikan perlindungan kepada saksi dan korban pelanggaran HAM.
+ Memberikan perlindungan kepada saksi dan korban pelanggaran HAM.
 ________________________________________
 
 
 6. Upaya Penegakan HAM di Indonesia
 Pemerintah dan masyarakat memiliki tanggung jawab dalam menegakkan HAM. Upaya-upaya tersebut meliputi:
-✔ Penyuluhan dan Pendidikan HAM
-•	Menyebarluaskan kesadaran HAM di sekolah, universitas, dan masyarakat.
-✔ Reformasi Hukum
-•	Memperbaiki peraturan perundang-undangan yang masih diskriminatif atau tidak adil.
-✔ Peradilan HAM
-•	Mengadili pelaku pelanggaran HAM melalui Pengadilan HAM.
-✔ Penyelesaian Kasus HAM Masa Lalu
-•	Melalui Komnas HAM dan mekanisme rekonsiliasi.
-✔ Partisipasi Masyarakat dan Media
-•	Masyarakat dan media memiliki peran besar dalam mengawasi dan melaporkan pelanggaran HAM.
+a.	Penyuluhan dan Pendidikan HAM
+1.	Menyebarluaskan kesadaran HAM di sekolah, universitas, dan masyarakat.
+b.	Reformasi Hukum
+1.	Memperbaiki peraturan perundang-undangan yang masih diskriminatif atau tidak adil.
+c.	Peradilan HAM
+1.	Mengadili pelaku pelanggaran HAM melalui Pengadilan HAM.
+d.	Penyelesaian Kasus HAM Masa Lalu
+1.	Melalui Komnas HAM dan mekanisme rekonsiliasi.
+e.	Partisipasi Masyarakat dan Media
+1.	Masyarakat dan media memiliki peran besar dalam mengawasi dan melaporkan pelanggaran HAM.
 ________________________________________
 
 
@@ -406,10 +406,10 @@ Amandemen adalah perubahan terhadap isi UUD 1945 dengan tujuan menyesuaikan kons
 
 
 Tujuan utama amandemen UUD 1945:
-✔ Mengurangi dominasi kekuasaan eksekutif (presiden) yang terlalu besar.
-✔ Memperkuat demokrasi dan sistem checks and balances.
-✔ Menjamin hak asasi manusia secara lebih tegas.
-✔ Menyesuaikan dengan perkembangan global dan kebutuhan bangsa.
+1.	Mengurangi dominasi kekuasaan eksekutif (presiden) yang terlalu besar.
+2.	Memperkuat demokrasi dan sistem checks and balances.
+3.	Menjamin hak asasi manusia secara lebih tegas.
+4.	Menyesuaikan dengan perkembangan global dan kebutuhan bangsa.
 2. Sejarah Amandemen UUD 1945
 Amandemen UUD 1945 dilakukan dalam empat tahap oleh Majelis Permusyawaratan Rakyat (MPR) dalam sidang-sidang tahunan pada periode 1999-2002.
 Amandemen	Tahun	Perubahan Utama
@@ -433,32 +433,32 @@ Komposisi MPR	DPR dan utusan golongan	Hanya terdiri dari DPR dan DPD
  
 4. Dampak Amandemen terhadap Sistem Pemerintahan
 A. Perubahan dalam Kekuasaan Eksekutif
-✔ Presiden dipilih langsung oleh rakyat, bukan lagi oleh MPR.
-✔ Presiden hanya bisa menjabat maksimal dua periode.
-✔ Presiden tidak bisa membubarkan DPR (sebelumnya bisa melalui MPR).
+1.	Presiden dipilih langsung oleh rakyat, bukan lagi oleh MPR.
+2.	Presiden hanya bisa menjabat maksimal dua periode.
+3.	Presiden tidak bisa membubarkan DPR (sebelumnya bisa melalui MPR).
 B. Perubahan dalam Kekuasaan Legislatif
-✔ DPR lebih kuat karena memiliki hak angket dan interpelasi terhadap presiden.
-✔ DPD dibentuk untuk mewakili daerah dalam sistem legislatif.
+1.	DPR lebih kuat karena memiliki hak angket dan interpelasi terhadap presiden.
+2.	DPD dibentuk untuk mewakili daerah dalam sistem legislatif.
 C. Perubahan dalam Pemilu dan Demokrasi
-✔ Pemilu lebih demokratis karena presiden dan kepala daerah dipilih langsung oleh rakyat.
-✔ Partai politik memiliki peran lebih besar dalam sistem politik.
+1.	Pemilu lebih demokratis karena presiden dan kepala daerah dipilih langsung oleh rakyat.
+2.	Partai politik memiliki peran lebih besar dalam sistem politik.
 D. Perubahan dalam Pemerintahan Daerah
-✔ Otonomi daerah diperkuat, dengan kepala daerah dipilih langsung.
-✔ Dana bagi hasil dan anggaran daerah diperjelas, sehingga daerah lebih mandiri.
+1.	Otonomi daerah diperkuat, dengan kepala daerah dipilih langsung.
+2.	Dana bagi hasil dan anggaran daerah diperjelas, sehingga daerah lebih mandiri.
 ________________________________________
  
 5. Kelebihan dan Kekurangan Amandemen UUD 1945
 A. Kelebihan Amandemen
-✔ Meningkatkan demokrasi, dengan pemilu langsung untuk presiden dan kepala daerah.
-✔ Mencegah kekuasaan otoriter, dengan pembatasan masa jabatan presiden.
-✔ Memperkuat hak asasi manusia, dengan adanya Bab XA.
-✔ Meningkatkan peran DPR, sehingga legislatif lebih independen.
-✔ Memperkuat otonomi daerah, sehingga daerah lebih berdaya.
+1.	Meningkatkan demokrasi, dengan pemilu langsung untuk presiden dan kepala daerah.
+2.	Mencegah kekuasaan otoriter, dengan pembatasan masa jabatan presiden.
+3.	Memperkuat hak asasi manusia, dengan adanya Bab XA.
+4.	Meningkatkan peran DPR, sehingga legislatif lebih independen.
+5.	Memperkuat otonomi daerah, sehingga daerah lebih berdaya.
 B. Kekurangan Amandemen
-❌ Munculnya politik biaya tinggi, karena pemilu langsung membutuhkan dana besar.
-❌ Sistem pemerintahan lebih kompleks, karena ada banyak lembaga baru.
-❌ Potensi konflik antara pusat dan daerah, akibat otonomi daerah yang luas.
-❌ Kelemahan dalam pengawasan partai politik, yang bisa menyebabkan oligarki politik.
+1.	Munculnya politik biaya tinggi, karena pemilu langsung membutuhkan dana besar.
+2.	Sistem pemerintahan lebih kompleks, karena ada banyak lembaga baru.
+3.	Potensi konflik antara pusat dan daerah, akibat otonomi daerah yang luas.
+4.	Kelemahan dalam pengawasan partai politik, yang bisa menyebabkan oligarki politik.
 ________________________________________
  
 6. Prosedur Perubahan UUD 1945
@@ -490,30 +490,30 @@ ________________________________________
 A. Pengertian Implementasi UUD 1945 dalam Kebijakan Publik
 Implementasi UUD 1945 dalam kebijakan publik adalah penerapan nilai, norma, dan ketentuan yang diatur dalam konstitusi ke dalam kebijakan pemerintahan yang berdampak pada masyarakat.
 B. Prinsip-Prinsip Implementasi UUD 1945
-✔ Supremasi Konstitusi → Semua kebijakan harus tunduk pada UUD 1945.
-✔ Demokrasi dan Partisipasi Publik → Kebijakan harus melibatkan rakyat sebagai pemegang kedaulatan.
-✔ Keadilan Sosial → Kebijakan harus mencerminkan keseimbangan hak dan kewajiban setiap warga negara.
-✔ Kepastian Hukum → Setiap kebijakan harus memiliki dasar hukum yang jelas dan dapat ditegakkan.
-✔ Efisiensi dan Efektivitas → Kebijakan harus dapat dijalankan dengan sumber daya yang tersedia dan mencapai hasil maksimal.
+1.	Supremasi Konstitusi → Semua kebijakan harus tunduk pada UUD 1945.
+2.	Demokrasi dan Partisipasi Publik → Kebijakan harus melibatkan rakyat sebagai pemegang kedaulatan.
+3.	Keadilan Sosial → Kebijakan harus mencerminkan keseimbangan hak dan kewajiban setiap warga negara.
+4.	Kepastian Hukum → Setiap kebijakan harus memiliki dasar hukum yang jelas dan dapat ditegakkan.
+5.	Efisiensi dan Efektivitas → Kebijakan harus dapat dijalankan dengan sumber daya yang tersedia dan mencapai hasil maksimal.
 ________________________________________
 2. Proses Perumusan Kebijakan Publik Berdasarkan UUD 1945
 Perumusan kebijakan publik dalam sistem hukum Indonesia mengikuti tahapan berikut:
 
 A. Identifikasi Masalah Publik
-📌 Pemerintah dan DPR mengidentifikasi permasalahan sosial, ekonomi, politik, atau hukum yang perlu diatasi.
-📌 Contoh: Ketimpangan ekonomi, kemiskinan, keamanan nasional.
+1.	Pemerintah dan DPR mengidentifikasi permasalahan sosial, ekonomi, politik, atau hukum yang perlu diatasi.
+2.	Contoh: Ketimpangan ekonomi, kemiskinan, keamanan nasional.
 B. Penyusunan dan Pengkajian Alternatif Kebijakan
-📌 Melalui kajian akademik, konsultasi publik, dan diskusi di DPR.
-📌 Prinsip-prinsip dalam UUD 1945 menjadi dasar penyusunan kebijakan.
+1.	Melalui kajian akademik, konsultasi publik, dan diskusi di DPR.
+2.	Prinsip-prinsip dalam UUD 1945 menjadi dasar penyusunan kebijakan.
 C. Pengambilan Keputusan dan Legislasi
-📌 DPR dan Pemerintah merumuskan kebijakan dalam bentuk Undang-Undang, Peraturan Pemerintah, atau Peraturan Daerah.
-📌 UUD 1945 memberikan dasar hukum untuk setiap kebijakan yang dibuat.
+1.	DPR dan Pemerintah merumuskan kebijakan dalam bentuk Undang-Undang, Peraturan Pemerintah, atau Peraturan Daerah.
+2.	UUD 1945 memberikan dasar hukum untuk setiap kebijakan yang dibuat.
 D. Implementasi Kebijakan
-📌 Kebijakan yang sudah disahkan diterapkan oleh kementerian, pemerintah daerah, dan lembaga terkait.
-📌 Proses ini melibatkan APBN/APBD, SDM, dan infrastruktur pemerintahan.
+1.	Kebijakan yang sudah disahkan diterapkan oleh kementerian, pemerintah daerah, dan lembaga terkait.
+2.	Proses ini melibatkan APBN/APBD, SDM, dan infrastruktur pemerintahan.
 E. Evaluasi dan Pengawasan
-📌 Implementasi kebijakan harus dievaluasi untuk memastikan efektivitasnya.
-📌 Lembaga pengawas seperti DPR, BPK, KPK, dan Ombudsman berperan dalam mengawasi kebijakan yang dijalankan.
+1.	Implementasi kebijakan harus dievaluasi untuk memastikan efektivitasnya.
+2.	 Lembaga pengawas seperti DPR, BPK, KPK, dan Ombudsman berperan dalam mengawasi kebijakan yang dijalankan.
 ________________________________________
 3. Kelembagaan yang Bertanggung Jawab dalam Implementasi UUD 1945
 Berdasarkan UUD 1945, beberapa lembaga memiliki peran penting dalam implementasi kebijakan publik:
@@ -527,38 +527,38 @@ Pemerintah Daerah	Mengimplementasikan kebijakan dalam lingkup daerah sesuai deng
 ________________________________________
 4. Implementasi UUD 1945 dalam Berbagai Sektor
 A. Sektor Ekonomi
-✔ Kebijakan ekonomi harus berlandaskan Pasal 33 UUD 1945 (Perekonomian berdasarkan asas kekeluargaan).
-✔ Contoh kebijakan: Program UMKM, subsidi BBM, ketahanan pangan.
+1.	Kebijakan ekonomi harus berlandaskan Pasal 33 UUD 1945 (Perekonomian berdasarkan asas kekeluargaan).
+2.	Contoh kebijakan: Program UMKM, subsidi BBM, ketahanan pangan.
 B. Sektor Sosial
-✔ Pasal 34 UUD 1945 → Negara bertanggung jawab atas fakir miskin dan anak terlantar.
-✔ Contoh kebijakan: BPJS Kesehatan, Program Keluarga Harapan (PKH).
+1.	Pasal 34 UUD 1945 → Negara bertanggung jawab atas fakir miskin dan anak terlantar.
+2.	Contoh kebijakan: BPJS Kesehatan, Program Keluarga Harapan (PKH).
 C. Sektor Politik
-✔ Pasal 1 Ayat 2 UUD 1945 → Kedaulatan rakyat diimplementasikan melalui sistem pemilu.
-✔ Contoh kebijakan: Pemilu langsung, transparansi partai politik.
+1.	Pasal 1 Ayat 2 UUD 1945 → Kedaulatan rakyat diimplementasikan melalui sistem pemilu.
+2.	Contoh kebijakan: Pemilu langsung, transparansi partai politik.
 D. Sektor Hukum dan Keamanan
-✔ Pasal 1 Ayat 3 UUD 1945 → Negara hukum, supremasi hukum harus dijalankan.
-✔ Contoh kebijakan: RKUHP, Reformasi Polri, Pemberantasan Korupsi.
+1.	Pasal 1 Ayat 3 UUD 1945 → Negara hukum, supremasi hukum harus dijalankan.
+2.	Contoh kebijakan: RKUHP, Reformasi Polri, Pemberantasan Korupsi.
 ________________________________________
  
 5. Hambatan dalam Implementasi UUD 1945
-❌ Kurangnya Konsistensi Hukum → Banyak kebijakan yang bertentangan dengan UUD 1945.
-❌ Korupsi dan Penyalahgunaan Kekuasaan → Implementasi kebijakan sering terhambat oleh kepentingan politik.
-❌ Kurangnya Partisipasi Masyarakat → Rakyat sering tidak dilibatkan dalam proses kebijakan.
-❌ Birokrasi yang Lambat → Sistem birokrasi yang rumit membuat implementasi kebijakan tidak efektif.
+1.	Kurangnya Konsistensi Hukum → Banyak kebijakan yang bertentangan dengan UUD 1945.
+2.	Korupsi dan Penyalahgunaan Kekuasaan → Implementasi kebijakan sering terhambat oleh kepentingan politik.
+3.	Kurangnya Partisipasi Masyarakat → Rakyat sering tidak dilibatkan dalam proses kebijakan. 
+4.	Birokrasi yang Lambat → Sistem birokrasi yang rumit membuat implementasi kebijakan tidak efektif.
 6. Studi Kasus Implementasi UUD 1945 dalam Kebijakan Publik
 A. Kartu Indonesia Sehat (KIS)
-📌 Berdasarkan Pasal 34 Ayat 2 UUD 1945 tentang jaminan kesehatan bagi rakyat miskin.
-📌 Implementasi: BPJS Kesehatan untuk memberikan layanan kesehatan gratis.
-📌 Tantangan: Masalah defisit anggaran BPJS, layanan kesehatan yang belum merata.
+1.	Berdasarkan Pasal 34 Ayat 2 UUD 1945 tentang jaminan kesehatan bagi rakyat miskin.
+2.	Implementasi: BPJS Kesehatan untuk memberikan layanan kesehatan gratis.
+3.	Tantangan: Masalah defisit anggaran BPJS, layanan kesehatan yang belum merata.
 B. Otonomi Daerah
-📌 Berdasarkan Pasal 18 UUD 1945 → Daerah memiliki kewenangan mengatur pemerintahannya sendiri.
-📌 Implementasi: Pemilihan kepala daerah langsung, alokasi dana desa.
-📌 Tantangan: Korupsi kepala daerah, ketimpangan pembangunan antar daerah.
+1.	Berdasarkan Pasal 18 UUD 1945 → Daerah memiliki kewenangan mengatur pemerintahannya sendiri.
+2.	Implementasi: Pemilihan kepala daerah langsung, alokasi dana desa.
+3.	Tantangan: Korupsi kepala daerah, ketimpangan pembangunan antar daerah.
 7. Rekomendasi untuk Optimalisasi Implementasi UUD 1945
-✔ Meningkatkan Pengawasan dan Akuntabilitas → Peran DPR, KPK, dan Ombudsman harus diperkuat.
-✔ Mereformasi Birokrasi → Penyederhanaan regulasi dan digitalisasi layanan publik.
-✔ Meningkatkan Kesadaran Hukum Masyarakat → Pendidikan konstitusi harus diperluas.
-✔ Memperbaiki Kualitas Kebijakan → Penyusunan kebijakan berbasis data dan aspirasi masyarakat.
+1.	Meningkatkan Pengawasan dan Akuntabilitas → Peran DPR, KPK, dan Ombudsman harus diperkuat.
+2.	Mereformasi Birokrasi → Penyederhanaan regulasi dan digitalisasi layanan publik.
+3.	Meningkatkan Kesadaran Hukum Masyarakat → Pendidikan konstitusi harus diperluas.
+4.	Memperbaiki Kualitas Kebijakan → Penyusunan kebijakan berbasis data dan aspirasi masyarakat.
 ________________________________________
 Kesimpulan
 1.	UUD 1945 menjadi dasar dari semua kebijakan publik di Indonesia.
@@ -581,51 +581,52 @@ Pembahasan dalam tahap ini:
 ________________________________________
 1. Tantangan Konstitusi dalam Konteks Globalisasi dan Perubahan Sosial
 A. Pengaruh Globalisasi terhadap Konstitusi
-✔ Intervensi Hukum Internasional → UUD 1945 harus menyesuaikan diri dengan perjanjian internasional yang mempengaruhi hukum nasional.
-✔ Ketergantungan Ekonomi Global → UUD 1945 harus memberikan ruang bagi kebijakan ekonomi yang fleksibel tanpa mengorbankan kepentingan nasional.
-✔ Migrasi dan Multikulturalisme → UUD 1945 harus mampu menjaga keutuhan nasional di tengah arus migrasi dan keberagaman budaya.
+1.	Intervensi Hukum Internasional → UUD 1945 harus menyesuaikan diri dengan perjanjian internasional yang mempengaruhi hukum nasional.
+2.	Ketergantungan Ekonomi Global → UUD 1945 harus memberikan ruang bagi kebijakan ekonomi yang fleksibel tanpa mengorbankan kepentingan nasional.
+3.	Migrasi dan Multikulturalisme → UUD 1945 harus mampu menjaga keutuhan nasional di tengah arus migrasi dan keberagaman budaya.
 B. Perubahan Sosial dan Tantangan Konstitusi
-✔ Perubahan Struktur Masyarakat → Urbanisasi, peningkatan kelas menengah, dan digitalisasi menuntut kebijakan hukum yang lebih adaptif.
-✔ Ketimpangan Sosial dan Ekonomi → Pasal 33 dan 34 UUD 1945 harus tetap relevan dalam mengatasi ketimpangan yang semakin lebar.
-✔ Radikalisme dan Intoleransi → Negara harus memperkuat nilai kebangsaan dan kebhinekaan yang dijamin dalam UUD 1945.
+1.	Perubahan Struktur Masyarakat → Urbanisasi, peningkatan kelas menengah, dan digitalisasi menuntut kebijakan hukum yang lebih adaptif.
+2.	Ketimpangan Sosial dan Ekonomi → Pasal 33 dan 34 UUD 1945 harus tetap relevan dalam mengatasi ketimpangan yang semakin lebar.
+3.	Radikalisme dan Intoleransi → Negara harus memperkuat nilai kebangsaan dan kebhinekaan yang dijamin dalam UUD 1945.
 ________________________________________
 2. Dinamika Politik dan Perubahan Konstitusi
 A. Ketidakstabilan Politik dan Tantangan Konstitusional
-✔ Konflik Kepentingan dalam Amandemen UUD 1945 → Perubahan konstitusi sering kali dipengaruhi oleh kepentingan politik jangka pendek.
-✔ Polemik tentang Sistem Pemerintahan → Ada perdebatan tentang efektivitas sistem presidensial versus parlementer.
-✔ Potensi Kembali ke Sentralisasi Kekuasaan → Isu wacana perpanjangan masa jabatan presiden bisa menjadi ancaman terhadap demokrasi.
+1.	Konflik Kepentingan dalam Amandemen UUD 1945 → Perubahan konstitusi sering kali dipengaruhi oleh kepentingan politik jangka pendek.
+2.	Polemik tentang Sistem Pemerintahan → Ada perdebatan tentang efektivitas sistem presidensial versus parlementer.
+3.	Potensi Kembali ke Sentralisasi Kekuasaan → Isu wacana perpanjangan masa jabatan presiden bisa menjadi ancaman terhadap demokrasi.
 B. Perubahan Konstitusi dan Proses Amandemen
-📌 Amandemen UUD 1945 telah dilakukan empat kali, namun masih ada tantangan dalam menyesuaikannya dengan perkembangan zaman.
-📌 Proses perubahan konstitusi harus tetap demokratis, dengan melibatkan partisipasi rakyat dan menjaga stabilitas hukum.
+1.	Amandemen UUD 1945 telah dilakukan empat kali, namun masih ada tantangan dalam menyesuaikannya dengan perkembangan zaman.
+2.	Proses perubahan konstitusi harus tetap demokratis, dengan melibatkan partisipasi rakyat dan menjaga stabilitas hukum.
 ________________________________________
 3. Tantangan dalam Penegakan Konstitusi dan Supremasi Hukum
-✔ Lemahnya Implementasi Hukum → Banyak kebijakan yang tidak sesuai dengan nilai-nilai konstitusi.
-✔ Maraknya Korupsi dan Penyalahgunaan Kekuasaan → Korupsi menghambat efektivitas kebijakan yang berbasis konstitusi.
-✔ Intervensi Politik terhadap Lembaga Hukum → Lembaga penegak hukum seperti Mahkamah Konstitusi dan KPK sering mendapat tekanan politik.
-✔ Kurangnya Kesadaran Konstitusional Masyarakat → Banyak warga negara yang belum memahami hak-hak konstitusional mereka.
+1.	Lemahnya Implementasi Hukum → Banyak kebijakan yang tidak sesuai dengan nilai-nilai konstitusi.
+2.	Maraknya Korupsi dan Penyalahgunaan Kekuasaan → Korupsi menghambat efektivitas kebijakan yang berbasis konstitusi.
+
+3.	Intervensi Politik terhadap Lembaga Hukum → Lembaga penegak hukum seperti Mahkamah Konstitusi dan KPK sering mendapat tekanan politik.
+4.	Kurangnya Kesadaran Konstitusional Masyarakat → Banyak warga negara yang belum memahami hak-hak konstitusional mereka.
 ________________________________________
 4. Tantangan Demokrasi dan Perlindungan Hak Asasi Manusia
-📌 Demokrasi elektoral yang masih memiliki banyak kelemahan, seperti politik uang, pragmatisme politik, dan keterbatasan partisipasi publik.
-📌 Perlindungan HAM yang belum optimal, terutama dalam kebebasan berekspresi, kebebasan beragama, dan hak-hak minoritas.
-📌 Masih adanya pelanggaran HAM di berbagai sektor, seperti konflik agraria, kebebasan pers, dan hak buruh.
+1.	Demokrasi elektoral yang masih memiliki banyak kelemahan, seperti politik uang, pragmatisme politik, dan keterbatasan partisipasi publik.
+2.	Perlindungan HAM yang belum optimal, terutama dalam kebebasan berekspresi, kebebasan beragama, dan hak-hak minoritas.
+3.	Masih adanya pelanggaran HAM di berbagai sektor, seperti konflik agraria, kebebasan pers, dan hak buruh.
 ________________________________________
 5. Dampak Teknologi terhadap Konstitusi dan Sistem Pemerintahan
-✔ Era Digital dan Regulasi Konstitusi → Perlunya regulasi tentang keamanan siber, data pribadi, dan kebebasan berekspresi di internet.
-✔ Disrupsi Teknologi dalam Demokrasi → Tantangan seperti hoaks, politik digital, dan intervensi asing dalam pemilu harus diantisipasi.
-✔ Artificial Intelligence dalam Pemerintahan → Perlu kajian konstitusional terkait penggunaan AI dalam administrasi negara.
+1.	Era Digital dan Regulasi Konstitusi → Perlunya regulasi tentang keamanan siber, data pribadi, dan kebebasan berekspresi di internet.
+2.	Disrupsi Teknologi dalam Demokrasi → Tantangan seperti hoaks, politik digital, dan intervensi asing dalam pemilu harus diantisipasi.
+3.	Artificial Intelligence dalam Pemerintahan → Perlu kajian konstitusional terkait penggunaan AI dalam administrasi negara.
 ________________________________________
 6. Tantangan Otonomi Daerah dan Desentralisasi
-✔ Ketimpangan Pembangunan Antar Daerah → Beberapa daerah berkembang pesat, sementara daerah lain tertinggal jauh.
-✔ Potensi Konflik Pemerintah Pusat dan Daerah → Perbedaan kebijakan antara pusat dan daerah dapat menghambat efektivitas pemerintahan.
-✔ Korupsi di Daerah → Desentralisasi memberikan keleluasaan bagi daerah, tetapi juga membuka peluang korupsi yang lebih besar.
-✔ Wacana Pemekaran Wilayah → Perlu kajian mendalam apakah pemekaran wilayah justru akan membebani anggaran negara.
+a.	Ketimpangan Pembangunan Antar Daerah → Beberapa daerah berkembang pesat, sementara daerah lain tertinggal jauh.
+b.	Potensi Konflik Pemerintah Pusat dan Daerah → Perbedaan kebijakan antara pusat dan daerah dapat menghambat efektivitas pemerintahan.
+c.	Korupsi di Daerah → Desentralisasi memberikan keleluasaan bagi daerah, tetapi juga membuka peluang korupsi yang lebih besar.
+d.	Wacana Pemekaran Wilayah → Perlu kajian mendalam apakah pemekaran wilayah justru akan membebani anggaran negara.
 ________________________________________
 7. Rekomendasi untuk Menghadapi Tantangan Konstitusi di Masa Depan
-✔ Penguatan Lembaga Konstitusi → Mahkamah Konstitusi, DPR, dan lembaga pengawas harus diperkuat untuk menjaga supremasi konstitusi.
-✔ Reformasi Birokrasi dan Penegakan Hukum → Mencegah korupsi dan memastikan hukum berjalan sesuai konstitusi.
-✔ Peningkatan Partisipasi Publik dalam Proses Demokrasi → Masyarakat harus lebih aktif dalam pengawasan dan pengambilan kebijakan.
-✔ Menyesuaikan Konstitusi dengan Perkembangan Teknologi → UUD 1945 harus mampu mengantisipasi tantangan di era digital dan AI.
-✔ Menjaga Keseimbangan antara Otonomi Daerah dan Kesatuan Nasional → Kebijakan desentralisasi harus tetap memperhatikan kepentingan nasional secara menyeluruh.
+1.	Penguatan Lembaga Konstitusi → Mahkamah Konstitusi, DPR, dan lembaga pengawas harus diperkuat untuk menjaga supremasi konstitusi.
+2.	Reformasi Birokrasi dan Penegakan Hukum → Mencegah korupsi dan memastikan hukum berjalan sesuai konstitusi.
+3.	Peningkatan Partisipasi Publik dalam Proses Demokrasi → Masyarakat harus lebih aktif dalam pengawasan dan pengambilan kebijakan.
+4.	Menyesuaikan Konstitusi dengan Perkembangan Teknologi → UUD 1945 harus mampu mengantisipasi tantangan di era digital dan AI.
+5.	Menjaga Keseimbangan antara Otonomi Daerah dan Kesatuan Nasional → Kebijakan desentralisasi harus tetap memperhatikan kepentingan nasional secara menyeluruh.
 ________________________________________
 Kesimpulan
 1.	UUD 1945 menghadapi tantangan besar dalam era globalisasi, teknologi, dan dinamika politik.
@@ -634,4 +635,3 @@ Kesimpulan
 4.	Teknologi digital membawa peluang dan tantangan bagi sistem pemerintahan dan hukum.
 5.	Desentralisasi harus dikelola dengan baik agar tidak menimbulkan ketimpangan daerah.
 6.	Masa depan konstitusi bergantung pada bagaimana negara mampu beradaptasi dengan perubahan zaman tanpa mengabaikan prinsip dasar UUD 1945.
-
