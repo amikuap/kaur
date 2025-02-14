@@ -4,9 +4,9 @@ Sebelum adanya UU Desa, pengaturan tentang desa masih tersebar dalam berbagai re
 UU Desa hadir untuk mengubah paradigma tersebut. Desa diberikan kewenangan lebih besar agar dapat mengatur dan mengurus kepentingannya sendiri secara mandiri, termasuk dalam hal keuangan dan pembangunan.
 2. Tujuan UU Desa
 UU Desa bertujuan untuk memperkuat desa sebagai entitas pemerintahan yang mandiri. Secara lebih spesifik, tujuannya mencakup:
-•	Pengakuan dan perlindungan desa → Menghormati keberadaan desa dan hak-haknya, terutama bagi desa adat yang memiliki sistem sosial dan hukum sendiri.
-•	Peningkatan kewenangan desa → Desa diberikan hak untuk mengatur dan mengelola sumber daya yang ada.
-•	Pemberdayaan ekonomi desa → Dengan adanya Dana Desa, pembangunan di desa bisa lebih cepat dan sesuai dengan kebutuhan masyarakat.
+1.	Pengakuan dan perlindungan desa → Menghormati keberadaan desa dan hak-haknya, terutama bagi desa adat yang memiliki sistem sosial dan hukum sendiri.
+2.	Peningkatan kewenangan desa → Desa diberikan hak untuk mengatur dan mengelola sumber daya yang ada.
+3.	Pemberdayaan ekonomi desa → Dengan adanya Dana Desa, pembangunan di desa bisa lebih cepat dan sesuai dengan kebutuhan masyarakat.
 
 B. KONSEP DASAR UU DESA
 1. Definisi dan Status Desa (Pasal 1 dan Pasal 6)
@@ -15,8 +15,8 @@ Jenis Desa (Pasal 6):
 1.	Desa Administratif → Desa yang dibentuk oleh pemerintah berdasarkan ketentuan perundang-undangan, dipimpin oleh kepala desa yang dipilih secara demokratis.
 2.	Desa Adat → Desa yang memiliki sistem pemerintahan berdasarkan hukum adat yang diakui oleh negara, sering kali dengan struktur sosial yang berbeda dari desa administratif.
 Penjelasan:
-•	Desa administratif lebih fokus pada tata kelola pemerintahan modern dengan sistem yang seragam.
-•	Desa adat mempertahankan tradisi dan aturan adat dalam pengelolaannya, misalnya dalam sistem kepemimpinan atau hukum adat.
+1.	Desa administratif lebih fokus pada tata kelola pemerintahan modern dengan sistem yang seragam.
+2.	Desa adat mempertahankan tradisi dan aturan adat dalam pengelolaannya, misalnya dalam sistem kepemimpinan atau hukum adat.
 ________________________________________
 
 
@@ -28,29 +28,29 @@ Pemerintahan desa memiliki tiga unsur utama:
 3.	Badan Permusyawaratan Desa (BPD) → Lembaga perwakilan masyarakat yang memiliki peran mengawasi dan memberi masukan kepada kepala desa.
 2. Tugas dan Wewenang Kepala Desa (Pasal 26-30)
 Tugas Kepala Desa:
-•	Menyelenggarakan pemerintahan desa → Meliputi administrasi, kependudukan, dan pelayanan masyarakat.
-•	Melaksanakan pembangunan desa → Sesuai dengan rencana yang telah disusun dalam RPJM Desa dan RKP Desa.
-•	Memberdayakan masyarakat desa → Mendorong kemandirian ekonomi dan sosial warga.
-•	Membina kehidupan sosial masyarakat desa → Menjaga ketertiban, kesejahteraan, dan budaya masyarakat.
+1.	Menyelenggarakan pemerintahan desa → Meliputi administrasi, kependudukan, dan pelayanan masyarakat.
+2.	Melaksanakan pembangunan desa → Sesuai dengan rencana yang telah disusun dalam RPJM Desa dan RKP Desa.
+3.	Memberdayakan masyarakat desa → Mendorong kemandirian ekonomi dan sosial warga.
+4.	Membina kehidupan sosial masyarakat desa → Menjaga ketertiban, kesejahteraan, dan budaya masyarakat.
 
 Wewenang Kepala Desa:
-•	Mengelola aset dan keuangan desa → Termasuk penggunaan Dana Desa dan sumber anggaran lainnya.
-•	Menetapkan peraturan desa (Perdes) → Bersama BPD, untuk mengatur berbagai aspek kehidupan desa.
-•	Menjalankan tugas yang diberikan pemerintah pusat dan daerah → Misalnya, dalam hal pendataan kependudukan dan distribusi bantuan sosial.
+1.	Mengelola aset dan keuangan desa → Termasuk penggunaan Dana Desa dan sumber anggaran lainnya.
+2.	Menetapkan peraturan desa (Perdes) → Bersama BPD, untuk mengatur berbagai aspek kehidupan desa.
+3.	Menjalankan tugas yang diberikan pemerintah pusat dan daerah → Misalnya, dalam hal pendataan kependudukan dan distribusi bantuan sosial.
 ________________________________________
 D. PERANGKAT DESA DAN TUGAS KAUR PERENCANAAN
 1. Struktur Perangkat Desa (Pasal 48-51)
 Perangkat desa terdiri dari beberapa bagian yang masing-masing memiliki tugas tertentu:
-•	Sekretaris Desa → Bertanggung jawab atas administrasi dan koordinasi internal perangkat desa.
-•	Kepala Urusan (Kaur) → Bertugas dalam bidang tertentu, termasuk Kaur Perencanaan.
-•	Kepala Seksi (Kasi) → Menangani urusan teknis seperti pemerintahan dan kesejahteraan.
-•	Kepala Dusun → Bertanggung jawab atas wilayah dusun tertentu dalam desa.
+1.	Sekretaris Desa → Bertanggung jawab atas administrasi dan koordinasi internal perangkat desa.
+2.	Kepala Urusan (Kaur) → Bertugas dalam bidang tertentu, termasuk Kaur Perencanaan.
+3.	Kepala Seksi (Kasi) → Menangani urusan teknis seperti pemerintahan dan kesejahteraan.
+4.	Kepala Dusun → Bertanggung jawab atas wilayah dusun tertentu dalam desa.
 2. Tugas Kaur Perencanaan
 Kaur Perencanaan memiliki peran penting dalam pembangunan desa. Tugas utamanya meliputi:
-•	Menyusun RPJM Desa → Dokumen rencana pembangunan desa untuk jangka waktu 6 tahun.
-•	Menyusun RKP Desa → Perencanaan tahunan yang merupakan bagian dari RPJM Desa.
-•	Mengkoordinasikan program pembangunan desa → Agar selaras dengan kebijakan nasional dan daerah.
-•	Mengelola data pembangunan desa → Termasuk pemantauan dan evaluasi proyek.
+1.	Menyusun RPJM Desa → Dokumen rencana pembangunan desa untuk jangka waktu 6 tahun.
+2.	Menyusun RKP Desa → Perencanaan tahunan yang merupakan bagian dari RPJM Desa.
+3.	Mengkoordinasikan program pembangunan desa → Agar selaras dengan kebijakan nasional dan daerah.
+4.	Mengelola data pembangunan desa → Termasuk pemantauan dan evaluasi proyek.
 ________________________________________
 E. KEWENANGAN DESA (PASAL 18-19)
 Desa memiliki empat jenis kewenangan utama, yaitu:
@@ -61,17 +61,17 @@ Desa memiliki empat jenis kewenangan utama, yaitu:
 F. KEUANGAN DAN PEMBANGUNAN DESA
 1. Sumber Keuangan Desa (Pasal 71-72)
 Sumber keuangan desa berasal dari:
-•	PADes → Pendapatan dari usaha desa dan retribusi.
-•	Dana Desa → Alokasi dari APBN.
-•	Alokasi Dana Desa (ADD) → Dari APBD kabupaten/kota.
-•	Bantuan pemerintah pusat dan daerah → Hibah dan bantuan khusus.
+1.	PADes → Pendapatan dari usaha desa dan retribusi.
+2.	Dana Desa → Alokasi dari APBN.
+3.	Alokasi Dana Desa (ADD) → Dari APBD kabupaten/kota.
+4.	Bantuan pemerintah pusat dan daerah → Hibah dan bantuan khusus.
 2. Pengelolaan Keuangan Desa (Pasal 73-75)
-•	Harus transparan dan akuntabel → Sesuai dengan prinsip tata kelola yang baik.
-•	Wajib digunakan untuk pembangunan dan pemberdayaan → Tidak boleh untuk kepentingan pribadi perangkat desa.
+1.	Harus transparan dan akuntabel → Sesuai dengan prinsip tata kelola yang baik.
+2.	Wajib digunakan untuk pembangunan dan pemberdayaan → Tidak boleh untuk kepentingan pribadi perangkat desa.
 3. Perencanaan Pembangunan Desa
-•	RPJM Desa → Perencanaan 6 tahun.
-•	RKP Desa → Perencanaan tahunan.
-•	APBDes → Anggaran tahunan yang mencakup pendapatan dan belanja desa.
+1.	RPJM Desa → Perencanaan 6 tahun.
+2.	RKP Desa → Perencanaan tahunan.
+3.	APBDes → Anggaran tahunan yang mencakup pendapatan dan belanja desa.
 G. PERATURAN PELAKSANA UU DESA
 Beberapa peraturan yang mendukung UU Desa:
 1.	PP Nomor 43 Tahun 2014 → Aturan pelaksanaan UU Desa.
@@ -83,20 +83,21 @@ UNDANG-UNDANG NOMOR 6 TAHUN 2014 TENTANG DESA & PERATURAN PELAKSANAANNYA
 A. PENDAHULUAN
 1. Latar Belakang Pembentukan UU Desa
 Sebelum adanya UU Desa, pengaturan desa tidak memiliki regulasi khusus yang komprehensif. Desa hanya menjadi bagian dari sistem pemerintahan daerah yang diatur dalam UU Pemerintahan Daerah. Hal ini menyebabkan:
-•	Minimnya kewenangan desa → Desa hanya menjalankan tugas dari pemerintah pusat dan daerah tanpa otonomi yang jelas.
-•	Terbatasnya akses anggaran desa → Dana pembangunan lebih banyak dikelola pemerintah daerah, sementara desa hanya mendapat alokasi terbatas.
-•	Kurangnya partisipasi masyarakat → Pembangunan desa cenderung ditentukan dari atas (top-down), bukan berdasarkan aspirasi masyarakat.
+1.	Minimnya kewenangan desa → Desa hanya menjalankan tugas dari pemerintah pusat dan daerah tanpa otonomi yang jelas.
+2.	Terbatasnya akses anggaran desa → Dana pembangunan lebih banyak dikelola pemerintah daerah, sementara desa hanya mendapat alokasi terbatas.
+3.	Kurangnya partisipasi masyarakat → Pembangunan desa cenderung ditentukan dari atas (top-down), bukan berdasarkan aspirasi masyarakat.
 Dengan UU Desa, desa diberikan kewenangan yang lebih luas dan sumber pendanaan langsung, sehingga mampu mengelola pemerintahan, pembangunan, dan kemasyarakatan secara mandiri.
 ________________________________________
+
 
 B. STRUKTUR DAN ISI UU DESA
 UU Desa terdiri dari 16 Bab dan 122 Pasal, yang mengatur berbagai aspek pemerintahan desa.
 BAB I: KETENTUAN UMUM (Pasal 1-5)
 Pasal 1 memberikan definisi penting, antara lain:
-•	Desa → Kesatuan masyarakat hukum yang memiliki batas wilayah, pemerintahan sendiri, dan diakui dalam sistem nasional.
-•	Desa Adat → Desa yang berdasarkan hukum adat dan memiliki struktur pemerintahan sendiri.
-•	Dana Desa → Dana dari APBN yang dialokasikan untuk desa.
-•	Kewenangan Desa → Hak desa untuk mengatur urusan pemerintahan berdasarkan asal-usul, kebutuhan lokal, dan penugasan dari pemerintah.
+1.	Desa → Kesatuan masyarakat hukum yang memiliki batas wilayah, pemerintahan sendiri, dan diakui dalam sistem nasional.
+2.	Desa Adat → Desa yang berdasarkan hukum adat dan memiliki struktur pemerintahan sendiri.
+3.	Dana Desa → Dana dari APBN yang dialokasikan untuk desa.
+4.	Kewenangan Desa → Hak desa untuk mengatur urusan pemerintahan berdasarkan asal-usul, kebutuhan lokal, dan penugasan dari pemerintah.
 Pasal 2-5 menjelaskan bahwa desa berlandaskan asas rekognisi (pengakuan hak asal-usul) dan subsidiaritas (pemberian kewenangan lokal).
 BAB II: STATUS DAN JENIS DESA (Pasal 6-11)
 1.	Pasal 6 → Desa terdiri dari Desa Administratif dan Desa Adat.
@@ -115,10 +116,10 @@ BAB IV: PENYELENGGARAAN PEMERINTAHAN DESA (Pasal 26-30)
 
 BAB V: KEUANGAN DAN ASET DESA (Pasal 71-77)
 1.	Sumber keuangan desa:
-o	Dana Desa (DD) dari APBN
-o	Alokasi Dana Desa (ADD) dari APBD Kabupaten/Kota
-o	Pendapatan Asli Desa (PADes)
-o	Hibah dan bantuan lain
+1.	Dana Desa (DD) dari APBN
+2.	Alokasi Dana Desa (ADD) dari APBD Kabupaten/Kota
+3.	Pendapatan Asli Desa (PADes)
+4.	Hibah dan bantuan lain
 2.	Aset desa berupa tanah kas desa, bangunan, dan kekayaan lainnya yang harus dikelola transparan.
 BAB VI: PEMBANGUNAN DESA DAN PERENCANAAN DESA (Pasal 78-86)
 1.	RPJM Desa → Rencana pembangunan desa untuk 6 tahun ke depan.
@@ -128,18 +129,20 @@ ________________________________________
 C. PERATURAN PELAKSANA UU DESA
 Beberapa peraturan yang mengatur lebih lanjut UU Desa:
 1. PP Nomor 43 Tahun 2014 tentang Peraturan Pelaksanaan UU Desa
-•	Mengatur detail tentang pemilihan kepala desa, perangkat desa, serta tugas dan wewenangnya.
-•	Menjelaskan tata kelola keuangan desa secara rinci.
+1.	Mengatur detail tentang pemilihan kepala desa, perangkat desa, serta tugas dan wewenangnya.
+2.	Menjelaskan tata kelola keuangan desa secara rinci.
 2. PP Nomor 47 Tahun 2015 tentang Perubahan atas PP 43/2014
-•	Mengatur skema Dana Desa agar lebih tepat sasaran.
-•	Memperkuat mekanisme pengawasan penggunaan Dana Desa.
+1.	Mengatur skema Dana Desa agar lebih tepat sasaran.
+2.	Memperkuat mekanisme pengawasan penggunaan Dana Desa.
 3. PP Nomor 11 Tahun 2019 tentang Perubahan Kedua atas PP 43/2014
-•	Mengatur lebih lanjut kewenangan desa dalam pengelolaan anggaran.
-•	Mempertegas kewajiban desa untuk melibatkan masyarakat dalam perencanaan pembangunan.
+1.	Mengatur lebih lanjut kewenangan desa dalam pengelolaan anggaran.
+2.	Mempertegas kewajiban desa untuk melibatkan masyarakat dalam perencanaan pembangunan.
 4. Permendagri Nomor 20 Tahun 2018 tentang Pengelolaan Keuangan Desa
-•	Menetapkan mekanisme penyusunan APBDes.
-•	Mewajibkan laporan pertanggungjawaban keuangan desa yang transparan dan akuntabel.
+1.	Menetapkan mekanisme penyusunan APBDes.
+2.	Mewajibkan laporan pertanggungjawaban keuangan desa yang transparan dan akuntabel.
 ________________________________________
+
+
 
 D. RINGKASAN PENTING UNTUK UJIAN KAUR PERENCANAAN
 TOPIK	PENJELASAN RINGKAS
@@ -149,7 +152,8 @@ Struktur Pemerintahan	Kepala Desa, Perangkat Desa, BPD
 Sumber Keuangan Desa	Dana Desa, ADD, PADes, hibah
 Dokumen Perencanaan	RPJM Desa (6 tahun), RKP Desa (1 tahun), APBDes
 Peraturan Pelaksana	PP 43/2014, PP 47/2015, PP 11/2019, Permendagri 20/2018
-________________________________________E. PENUTUP
+
+E. PENUTUP
 Undang-Undang Nomor 6 Tahun 2014 memberikan dasar hukum yang kuat bagi desa untuk mengatur urusannya sendiri. Dengan adanya Dana Desa, kewenangan mandiri, serta sistem perencanaan pembangunan desa, desa dapat berkembang lebih cepat dan sesuai dengan kebutuhan masyarakatnya.
 Sebagai Kaur Perencanaan, pemahaman terhadap RPJM Desa, RKP Desa, APBDes, dan pengelolaan Dana Desa sangat penting, karena peran ini berkaitan langsung dengan pembangunan dan keuangan desa.
 
